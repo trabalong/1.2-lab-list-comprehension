@@ -12,6 +12,8 @@ In this lab, you will practice constructing list comprehensions and using them t
 
 Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
 
+*Hint*: If list comprehensions are still not so intuitive to you, you can solve any exercise first using loops and then transform then into a list comprehension.
+
 ## Deliverables
 
 - `main.ipynb` with your responses to each of the exercises.
@@ -19,6 +21,8 @@ Open the `main.ipynb` file in the `your-code` directory. There are a bunch of qu
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+
+**Warning**: Make sure you have done the pull request, otherwise we won't be able to review your work.
 
 ## Resources
 
